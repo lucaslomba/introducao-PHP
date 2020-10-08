@@ -1,0 +1,14 @@
+Download PHP
+-> https://www.php.net/
+
+Extract archive in new folder
+
+Open "Editar variaveis de ambiente"
+
+Copy Patch folder PHP
+
+Click in "Variaveis de ambiente"
+
+Select Patch and click in "Editar"
+
+Add new Patch, using the Patch folder PHP
