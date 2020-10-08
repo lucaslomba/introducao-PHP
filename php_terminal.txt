@@ -1,0 +1,14 @@
+php -a 
+-> open interactive shell
+
+echo "Olá Mundo";
+-> Print
+
+php nome-aqrquivo.php
+-> execute file
+
+quit
+-> Terminate command line
+
+cls
+-> clear terminal
